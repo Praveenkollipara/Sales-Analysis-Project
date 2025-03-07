@@ -4,8 +4,9 @@
 - [Project Overview](#project-overview)
 - [Dataset Overview](#dataset-overview)
 - [Technologies Used](#technologies-used)
+- [Data Cleaning and Feature Engineering](#data-cleaning-and-feature-engineering)
 - [Exploratory Data Analysis and Visualization](#exploratory-data-analysis-and-visualization)
-
+- [Conclusion](#conclusion)
 
 ## Project Overview
 
@@ -47,5 +48,9 @@ To enhance the analysis, additional features were derived:
 ### Regional & Product Category Analysis
 - Identified top-performing regions and best-selling product categories.
 ### Time-Based Trends
-- Examined monthly and yearly sales trends using line and bar charts
+- Examined monthly and yearly sales trends using line and bar charts.
+### Customer Segmentation
+- Recognized high-value customers based on total spending and frequency of purchases.
 
+## Conclusion
+This project effectively demonstrates how SQL and Power BI can be leveraged to analyze and visualize sales data for actionable business insights. By integrating SQL for data extraction and transformation, Power BI for dynamic reporting, and DAX for advanced calculations, we built a robust sales insights dashboard
