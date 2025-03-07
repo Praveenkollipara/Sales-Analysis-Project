@@ -1,5 +1,8 @@
 # Sales-Analysis-Project
 
+### Dashboard Link : 
+  https://app.powerbi.com/groups/me/reports/3b31c34d-db6f-4099-b477-a7faf216546a/a08ef5c1c508a0d2788f?experience=power-bi
+  
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset Overview](#dataset-overview)
