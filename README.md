@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-This project is an Sales Insights Dashboard built using Microsoft Power BI and SQL. It analyzes sales data from a computer hardware business to derive key business insights. The project demonstrates data cleaning, modeling, visualization, and dashboard creation to help stakeholders make informed decisions.
+This project is a Sales Insights Dashboard built using Microsoft Power BI and SQL. It analyzes sales data from a computer hardware business to derive key business insights. The project demonstrates data cleaning, modeling, visualization, and dashboard creation to help stakeholders make informed decisions.
 
 ## Dataset Overview
 The dataset used in this project contains sales transaction records from a computer hardware business. The key attributes include:
